@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">zad2_v2</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="hobby">Moje zainteresowania obecnie to Trójbój Siłowy\n
+                         Przez kilka lat ćwiczyłem typowo amatorsko.\n
+                         W Grudniu 2020r. wystartowałem w Ogólnopolskich Debiutach\n
+                         Osiągnąłem wyniki:\n
+                         Przysiad 162,5kg\n
+                         Wyciskanie leżąc: 90kg\n
+                         Martwy Ciąg: 185kg\n
+    </string>
+    <string name="o_mnie">Witam\n
+                          Nazywam się Tomasz Logisz\n
+                          Jestem studentem trzeciego roku Informatyki\n
+                          Na wydziale Informatyki I Zarządzania PWr\n
+    </string>
+    <string name="title_activity_main2">MainActivity</string>
+</resources>
